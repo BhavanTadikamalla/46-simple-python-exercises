@@ -9,6 +9,5 @@ def max(num1, num2):
   else:
     return num2
 
-#test
 print max(3, 5)
 print max(10, 6)
